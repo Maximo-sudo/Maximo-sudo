@@ -1,10 +1,11 @@
 ##¡Hola, soy Máximo!
 ----------------------
-🌐 Explorando el emocionante mundo de la ciberseguridad.
-🚀 Apasionado por aprender, desafiarme y construir un futuro en tecnología.
-🔍 Motivado por la curiosidad y el deseo constante de superarme.
++ 🌐 Estoy explorando el mundo de la ciberseguridad, ya que es algo que me gusta y me apasiona.
++ 🚀 Apasionado por aprender, desafiarme y construir un futuro en tecnología.
++ 🔍 Estoy motivado por la curiosidad y el deseo constante de superarme.
 
-✨ Tecnologías y habilidades que estoy desarrollando:
+##✨ Tecnologías y habilidades que estoy desarrollando:
+--------------------------------------------------------
 🔧 Fundamentos de Ciberseguridad: principios, análisis de vulnerabilidades, buenas prácticas.
 🛠️ Sistemas Operativos: Linux, Windows Server.
 
