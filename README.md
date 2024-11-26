@@ -1,5 +1,4 @@
----------------------
-##|¡Hola, soy Máximo!|
+##¡Hola, soy Máximo!
 ----------------------
 🌐 Explorando el emocionante mundo de la ciberseguridad.
 🚀 Apasionado por aprender, desafiarme y construir un futuro en tecnología.
