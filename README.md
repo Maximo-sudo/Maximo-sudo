@@ -6,8 +6,8 @@
 
 ##✨ Tecnologías y habilidades que estoy desarrollando:
 --------------------------------------------------------
-🔧 Fundamentos de Ciberseguridad: principios, análisis de vulnerabilidades, buenas prácticas.
-🛠️ Sistemas Operativos: Linux, Windows Server.
++ 🔧 Fundamentos de Ciberseguridad: principios, análisis de vulnerabilidades, buenas prácticas.
++ 🛠️ Sistemas Operativos: Tanto Linux como Windows. Y en ambos casos con muchas variantes de los sistemas.
 
 🔛 Redes: configuración, administración y seguridad.
 
