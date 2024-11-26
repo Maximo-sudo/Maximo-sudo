@@ -22,9 +22,9 @@ Soy un entusiasta de la tecnología y un apasionado de la ciberseguridad, un cam
 
 📲 **Conecta conmigo**
 -----------------------
-+ **LinkedIn**: Tu LinkedIn aquí
-+ **Instagram**: Tu Instagram aquí
-+ **GitHub**: Tu GitHub aquí
++ **LinkedIn**: 
++ **Instagram**: 
++ **GitHub**: 
 
 **¡Y SOBRE TODO, SOY UN TÍO CHILL!**
 
