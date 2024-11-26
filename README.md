@@ -26,6 +26,6 @@ Soy un entusiasta de la tecnología y un apasionado de la ciberseguridad, un cam
 + **Instagram**: Tu Instagram aquí
 + **GitHub**: Tu GitHub aquí
 
-**¡Y SOBRE TODO, SOY UN TÍO CHILL DE COJONES!**
+**¡Y SOBRE TODO, SOY UN TÍO CHILL!**
 
 ![RuHdPQR6F5etIXzy](https://github.com/user-attachments/assets/61d2c432-ec35-4164-b0d2-aa9e412a33da)
