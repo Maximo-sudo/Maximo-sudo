@@ -17,4 +17,4 @@
 + ✨ Siempre abierto a experimentar y aprender cosas nuevas.
 
 #        Y SOBRE TODO SOY UN TIO CHILL DE COJONES.
-    ![RuHdPQR6F5etIXzy](https://github.com/user-attachments/assets/61d2c432-ec35-4164-b0d2-aa9e412a33da)
+![RuHdPQR6F5etIXzy](https://github.com/user-attachments/assets/61d2c432-ec35-4164-b0d2-aa9e412a33da)
