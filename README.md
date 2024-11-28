@@ -28,4 +28,4 @@ Soy un entusiasta de la tecnología y un apasionado de la ciberseguridad, un cam
 
 **¡Y SOBRE TODO, SOY UN TÍO CHILL!**
 
-![RuHdPQR6F5etIXzy](https://github.com/user-attachments/assets/61d2c432-ec35-4164-b0d2-aa9e412a33da)
+![they-make-it-look-so-easy-my-new-character](https://github.com/user-attachments/assets/229d9a0f-76c0-4823-821a-1bf08b5c97b5)
